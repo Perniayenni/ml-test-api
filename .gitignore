@@ -1,0 +1,8 @@
+node_modules
+sftp-config.json
+
+.vscode/*
+
+.env
+
+.DS_Store
